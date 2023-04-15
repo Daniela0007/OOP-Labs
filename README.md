@@ -1,1 +1,2 @@
-# GO AT YOUR OWN RISK, BICI
+# Nice game, nu mai vreau
+
